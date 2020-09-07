@@ -6,5 +6,5 @@
 
 
 
-<img src='./tel/wechat.jpg' width=20%>wechat</img>
+<img src='./tel/wechat.jpg' width=20%></img>
 
